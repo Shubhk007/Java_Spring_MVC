@@ -11,5 +11,6 @@
 <hr>
 User Name is : ${param.UserName}
 <hr>
+<a href="${pageContext.request.contextPath}">Go to Homepage</a>
 </body>
 </html>
